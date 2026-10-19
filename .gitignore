@@ -1,0 +1,19 @@
+
+# Compiled
+*.class
+out/
+bin/
+target/
+build/
+
+# IntelliJ
+.idea/
+*.iml
+
+# jdtls / Eclipse metadata (nvim LSP creates these)
+.project
+.classpath
+.settings/
+
+# macOS
+.DS_Store
